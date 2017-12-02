@@ -6,6 +6,8 @@ Simple client application:
 - Reads lines from standard input and sends them to the server
 - Prints the response from the server to standard output
 
+The corresponding server application is [here](https://github.com/weibeld/JavaSocketsServer).
+
 Source: [Oracle Tutorials](https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html)
 
 ## Compile
